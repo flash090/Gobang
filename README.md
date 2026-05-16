@@ -1,3 +1,3 @@
-hello world
-hello git
-vibe coding experiments
+hello world  
+hello git  
+vibe coding experiments  
